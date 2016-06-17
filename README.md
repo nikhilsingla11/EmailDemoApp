@@ -1,5 +1,5 @@
 # EmailDemoApp
-I've set up a simple NodeJS application and uses a bunch of APIs to access and manipulate data providede by you.
+I've created sinmple iOS Appication and uses nodejs application with bunch of APIs to access and manipulate data providede by you.
 
 API's
 
